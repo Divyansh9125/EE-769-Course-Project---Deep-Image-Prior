@@ -1,5 +1,5 @@
 import os
-from .util import *
+from util import *
 
 
         
