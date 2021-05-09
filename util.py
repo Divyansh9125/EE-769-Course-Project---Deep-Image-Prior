@@ -65,7 +65,7 @@ def plot_image_grid(images_np, nrow =8, factor=1, interpolation='lanczos'):
     Args:
         images_np: list of images, each image is np.array of size 3xHxW of 1xHxW
         nrow: how many images will be in one row
-        factor: size if the plt.figure 
+        factor: size of the plt.figure 
         interpolation: interpolation used in plt.imshow
     """
     n_channels = max(x.shape[0] for x in images_np)
@@ -129,7 +129,7 @@ def get_noise(input_depth, method, spatial_size, noise_type='u', var=1./10):
     initialized in a specific way.
     Args:
         input_depth: number of channels in the tensor
-        method: `noise` for fillting tensor with noise; `meshgrid` for np.meshgrid
+        method: `noise` for filling tensor with noise; `meshgrid` for np.meshgrid
         spatial_size: spatial size of the tensor to initialize
         noise_type: 'u' for uniform; 'n' for normal
         var: a factor, a noise will be multiplicated by. Basically it is standard deviation scaler. 
