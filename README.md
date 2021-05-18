@@ -12,3 +12,6 @@ This is the implementation of Deep Image Prior paper. This project showcases how
 * Aisha Meena
 * Divyansh Srivastava
 * Piyush Agrawal
+
+
+**Video Link:** https://www.youtube.com/watch?v=nGYWepNi4kQ
