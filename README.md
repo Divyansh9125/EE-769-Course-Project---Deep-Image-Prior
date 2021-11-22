@@ -9,9 +9,6 @@ This is the implementation of Deep Image Prior paper. This project showcases how
 * Pytorch
 
 **Contributors:** </br>
-* Aisha Meena
 * Divyansh Srivastava
-* Piyush Agrawal
-
-
-**Video Link:** https://www.youtube.com/watch?v=nGYWepNi4kQ
+* Ankit Kumar
+To run the denoising notebook with different data, just change the original.png image with image of your choice (b&w and having human face) and name is as original.png
