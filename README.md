@@ -10,7 +10,8 @@ This is the implementation of Deep Image Prior paper. This project showcases how
 
 **Contributors:** </br>
 * Divyansh Srivastava
-* Ankit Kumar
+* Piyush Agarwal
+* Ayesha Meena
 
 
 To run the denoising notebook with different data, just change the original.png image with image of your choice (b&w and having human face) and name is as original.png
